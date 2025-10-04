@@ -1,7 +1,5 @@
 # Date-formatting-C-
-This a program that takes a date from the user (YYYY/MM/DD) in 8 digits from the user, in ensure that in the 8 digits that a real year, month (between 1 and 12) and day between (1 to 31), and return it in the format (12th January, 2025)
+# Date Format Validator (C++)
 
-# My C++ Project
-
-This is a C++ program built with Visual Studio 2020.
+This program takes an input date in the format `YYYYMMDD` (8 digits), validates it, and converts it into a more readable format such as:
 
